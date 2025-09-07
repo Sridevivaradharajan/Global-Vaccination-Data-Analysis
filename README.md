@@ -53,8 +53,8 @@ All datasets were cleaned, standardized, and stored for downstream analysis. Mis
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/vaccination-analysis.git
-cd vaccination-analysis
+git clone https://github.com/Sridevivaradharajan/Global-Vaccination-Data-Analysis.git
+cd Global-Vaccination-Data-Analysis
 ```
 
 2. **Install dependencies**
@@ -75,7 +75,3 @@ pip install -r requirements.txt
 
 This repository is licensed under **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**.
 You may use, share, and adapt the project **for non-commercial purposes** with proper credit.
-
-
-Would you like me to also include a **short “Project Motivation” paragraph** (why you did this project, e.g., for public health insights or a portfolio project)?
-It makes README files feel more personal and is good for recruiters/researchers viewing your repo.
