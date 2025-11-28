@@ -69,9 +69,3 @@ pip install -r requirements.txt
 
 5. Open the dashboard file in Tableau or Power BI and explore the insights.
 
----
-
-## License
-
-This repository is licensed under **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**.
-You may use, share, and adapt the project **for non-commercial purposes** with proper credit.
